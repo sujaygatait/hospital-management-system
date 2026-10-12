@@ -2,7 +2,7 @@ package BusinessLogicClass;
 
 public class Doctor {
     private static int idCounter = 0;
-    private static int id;
+    private int id;
     private String name;
     private String speciality;
 
